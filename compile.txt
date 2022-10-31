@@ -1,0 +1,1 @@
+g++ main.cpp qap_solver.cpp --std=c++2a -O3 -Wall -g
